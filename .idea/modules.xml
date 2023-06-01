@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProgrammingJava/ProgrammingJava.iml" filepath="$PROJECT_DIR$/ProgrammingJava/ProgrammingJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingUsingJava.iml" filepath="$PROJECT_DIR$/ProgrammingUsingJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingJava/SwiftFood/SwiftFood.iml" filepath="$PROJECT_DIR$/ProgrammingJava/SwiftFood/SwiftFood.iml" />
     </modules>
   </component>
 </project>
