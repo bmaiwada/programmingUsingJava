@@ -1,7 +1,5 @@
 package com.infy;
 
-import java.sql.SQLOutput;
-
 public class Food {
     public String foodName;
     public String cuisine;
