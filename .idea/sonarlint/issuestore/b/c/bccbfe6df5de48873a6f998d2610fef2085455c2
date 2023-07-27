@@ -1,16 +1,0 @@
-
-q
-java:S1104"TMake foodName a static final constant or non-public and provide accessors if needed.(…áÒí8éœîÀ‡1
-u
-java:S1104"SMake cuisine a static final constant or non-public and provide accessors if needed.(·”ûõüÿÿÿÿ8êœîÀ‡1
-v
-java:S1104"TMake foodType a static final constant or non-public and provide accessors if needed.(³¼ğÃùÿÿÿÿ8êœîÀ‡1
-z
-java:S1104"]Make quantityAvailable a static final constant or non-public and provide accessors if needed.(šÔ¡›8êœîÀ‡1
-w
-java:S1104"UMake unitPrice a static final constant or non-public and provide accessors if needed.(¬ˆÆ§ùÿÿÿÿ8êœîÀ‡1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹ûéÓûÿÿÿÿ8õœîÀ‡1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã°•™şÿÿÿÿ8öœîÀ‡1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÆïÅÿÿÿÿÿ8öœîÀ‡1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ò ÙØûÿÿÿÿ8÷œîÀ‡1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(òšúÔıÿÿÿÿ8÷œîÀ‡1
